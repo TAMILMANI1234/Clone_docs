@@ -1,0 +1,132 @@
+.header{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+img{
+    width: 60px;
+}
+.file_name{
+    border: none;
+    right: 80px;
+}
+ul{
+    list-style-type: none;
+     margin: 0;
+    padding: 0;
+  
+}
+li {
+    display: inline;
+    padding: 10px;
+  }
+.star{
+    width: 20px;
+    margin-left: 20px;
+}
+.left_content ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     
+}
+.left_content ul li{
+    padding-left: 25px;
+}
+.comment{
+    width: 34px;
+     
+}
+.lock{
+    width: 24px;
+}
+.but{
+    border: none;
+    padding: 10px;
+    border-radius: 40px;
+    background-color: #c0e8fe;
+    width: 110px;
+    
+}
+.menu  li:hover{
+    background-color:gainsboro ;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.actions{
+    background-color: #edf1fa;
+    width: 93%;
+    padding: 10px;
+    margin-left: 18px;
+    border-radius: 20px;
+    
+     
+}
+.actions table  {
+     width: 14%;
+     margin-left: 20px;
+     
+}
+.actions table tr td{
+    padding: 0;
+}
+.actions table tr td button{
+    border: none;
+    background-color:  #edf1fa;
+}
+.actions table tr td button:hover{
+     border-radius: 2px;
+     background-color: #cbcfd8;
+     
+}
+.actions table tr td img{
+    width: 25px;
+    padding: 5px;
+ 
+}
+.actions table tr td .Tooltip{
+    font-size: 11px;
+    
+}
+ .actions table tr td .dropdown .dropdown-menu {
+    border: none;
+ }
+ .actions table tr td .dropdown .dropdown-menu .dropdown-item{
+     padding: 10px;
+ }
+ 
+.actions table tr td span{  
+    margin-left: 15px;
+    padding-right: 15px;
+
+}
+.actions table tr td input{
+    width: 30px;
+    background-color: #edf1fa;
+    border-radius: 5px;
+    border: 1px;
+    padding: 2px;
+    text-align: center;
+     
+}
+.actions table tr td .number{
+    margin-left: -3px;
+}
+.actions table tr td .text_style{
+    font-weight: bold;
+    padding-right: 10px;
+}
+.actions table tr td .edit{
+     
+    width:26vw;
+}
+.actions table tr td .edit button{
+    margin-left: 90%;
+}
+ 
+
+ 
+

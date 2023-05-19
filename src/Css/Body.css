@@ -1,0 +1,31 @@
+ .body{
+    width: 100%;
+    height: 585px;
+    aspect-ratio: 3/1;
+    padding: 40px 0;
+    margin-left:10px;
+    border: solid black 2px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  .section{
+    width: 900px;
+    height: 700px;
+  }
+  .col textarea{
+  margin-top: 100px;
+  background-color: #fff;
+  width: 100%;
+  height: 700px;
+  border: 1px solid black;
+  padding: 50px;
+   
+  }
+
+ 
+ 

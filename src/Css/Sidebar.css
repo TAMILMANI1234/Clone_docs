@@ -1,0 +1,15 @@
+.side button{
+    border: none;
+    background-color: #f9fafe;
+}
+.side table tr td{
+    padding-bottom: 40px;
+}
+.side img{
+    width: 40px;
+}
+.add{
+   border: none; 
+   font-size: 40px;
+   width: 100%;
+}
